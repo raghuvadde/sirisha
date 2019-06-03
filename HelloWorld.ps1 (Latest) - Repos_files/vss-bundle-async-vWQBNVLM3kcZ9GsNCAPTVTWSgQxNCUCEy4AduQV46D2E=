@@ -1,0 +1,4 @@
+if (window.performance && window.performance.mark) { window.performance.mark('startLoadBundleInner-async'); }
+// Copyright (C) Microsoft Corporation. All rights reserved.
+define("Presentation/Scripts/TFS/TFS.Engagement.Registrations",["require","exports","VSS/VSS"],function(n,t,i){function u(){i.using(["Engagement/Core","Engagement/Dispatcher"],function(n,t){t.Dispatcher.getInstance().register({id:r.NewFeature,type:n.EngagementType.NewFeature,model:null})})}Object.defineProperty(t,"__esModule",{value:!0});var r;(function(n){n.NewFeature="NewFeature"})(r||(r={}));t.registerNewFeature=u});
+if (window.performance && window.performance.mark) { window.performance.mark('endLoadBundleInner-async'); }

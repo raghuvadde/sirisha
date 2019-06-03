@@ -1,0 +1,6 @@
+/* CSS file: VersionControl/Shared/Committing/TextFieldParentAddon */
+.vc-text-field-parent-addon.ms-TooltipHost{max-width:12em;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;line-height:30px}
+
+/* CSS file: VersionControl/AddNewFileDialog */
+.vc-add-new-file-dialog.ms-Dialog-main{min-width:530px;max-width:530px}.vc-add-new-file-dialog.ms-Dialog-main .new-file-name-fixed-container{height:105px}.vc-add-new-file-dialog.ms-Dialog-main .new-placeholder-name-fixed-container{height:135px}
+
